@@ -271,11 +271,11 @@
                             </Grid>
                             <Grid Grid.Row="5">
                                 <StackPanel>
-                                    <TextBlock Text="Logig information" Margin="62,0,-62,0" Foreground="#FFBDC2C9" />
-                                    <TextBlock Text="Admin" Margin="62,0,-62,0" Foreground="#FFBDC2C9" />
-                                    <TextBlock Text="User Name : admin   Password : aaaa" Margin="62,0,-62,0" Foreground="#FFBDC2C9" />
-                                    <TextBlock Text="Student" Margin="62,0,-62,0" Foreground="#FFBDC2C9" />
-                                    <TextBlock Text="User Name : student   Password : bbbb" Margin="62,0,-62,0" Foreground="#FFBDC2C9" />
+                                    <TextBlock Text="" Margin="70,0,-62,0" Foreground="#FFBDC2C9" Height="24" />
+                                    <TextBlock Text="Admin" Margin="80,0,-62,0" Foreground="#FFBDC2C9" />
+                                    <TextBlock Text="Username : admin   Password : aaaa" Margin="80,0,-62,0" Foreground="#FFBDC2C9" Height="24"/>
+                                    <TextBlock Text="Student" Margin="80,0,-62,0" Foreground="#FFBDC2C9" />
+                                    <TextBlock Text="Username : student   Password : bbbb" Margin="80,0,-62,0" Foreground="#FFBDC2C9" />
                                 </StackPanel>
 
 

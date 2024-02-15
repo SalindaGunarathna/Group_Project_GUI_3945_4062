@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Chl3uPmr5JV7qvrVKaMjiCarvusjRqfWRZuu43RzPOAJZN5NnR1STvAbbZwqPhoKDicBcfsBxE1dToWgXZ//Q==",
+  "dgSpecHash": "tYOHZ8QGPZzj3xi5i0mUgQuky+KHD2+G8kIsn6dTenE9EDx2zPMG+ypGs6SLx+89pqcvgEY9MYiLUACBoarirw==",
   "success": true,
-  "projectFilePath": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\final one\\Group Project_GUI_3945_4062\\StudentManagement_S\\StudentManagement_S.csproj",
+  "projectFilePath": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\new final one\\Group Project_GUI_3945_4062\\StudentManagement_S\\StudentManagement_S.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kmwgs\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
     "C:\\Users\\kmwgs\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",

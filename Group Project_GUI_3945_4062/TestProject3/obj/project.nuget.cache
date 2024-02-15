@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/UNmraNHWS+tk5PsbEQ0F/aNoGgQRE/GPei/DTqziBOhEh8JWZHGupQaFRPMazbqiW+KtU4RUUouC5OuPC3s3w==",
+  "dgSpecHash": "YQ/gSLbOH1j+UwNdwvpZaa7MYryebfzDAcexpSTKYFAeFDX6cViebRmilHHa2n9BleSlHu/i/+njtGcqjJxZsQ==",
   "success": true,
-  "projectFilePath": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\final one\\Group Project_GUI_3945_4062\\TestProject3\\TestProject3.csproj",
+  "projectFilePath": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\new final one\\Group Project_GUI_3945_4062\\TestProject3\\TestProject3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kmwgs\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\kmwgs\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",

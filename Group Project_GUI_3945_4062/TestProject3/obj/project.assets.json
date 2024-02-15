@@ -8529,11 +8529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\final one\\Group Project_GUI_3945_4062\\TestProject3\\TestProject3.csproj",
+      "projectUniqueName": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\new final one\\Group Project_GUI_3945_4062\\TestProject3\\TestProject3.csproj",
       "projectName": "TestProject3",
-      "projectPath": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\final one\\Group Project_GUI_3945_4062\\TestProject3\\TestProject3.csproj",
+      "projectPath": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\new final one\\Group Project_GUI_3945_4062\\TestProject3\\TestProject3.csproj",
       "packagesPath": "C:\\Users\\kmwgs\\.nuget\\packages\\",
-      "outputPath": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\final one\\Group Project_GUI_3945_4062\\TestProject3\\obj\\",
+      "outputPath": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\new final one\\Group Project_GUI_3945_4062\\TestProject3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8554,8 +8554,8 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "D:\\3rd sem\\GUI programing\\project my one\\aaa\\final one\\Group Project_GUI_3945_4062\\StudentManagement_S\\StudentManagement_S.csproj": {
-              "projectPath": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\final one\\Group Project_GUI_3945_4062\\StudentManagement_S\\StudentManagement_S.csproj"
+            "D:\\3rd sem\\GUI programing\\project my one\\aaa\\new final one\\Group Project_GUI_3945_4062\\StudentManagement_S\\StudentManagement_S.csproj": {
+              "projectPath": "D:\\3rd sem\\GUI programing\\project my one\\aaa\\new final one\\Group Project_GUI_3945_4062\\StudentManagement_S\\StudentManagement_S.csproj"
             }
           }
         }
